@@ -1,0 +1,19 @@
+przetrenowanie
+
+szukamy tzw. 'sweet spot' czyli jak najwyższego accuracy dla danych testowych, jak najbardziej zbliżonego do accuracy na danych uczących
+
+accuracy na danych uczących >> accuracy na danych testowych => przeuczenie
+
+genereliacja problemu (nie przeuczenie)
+
+
+metryka F1 - fajne, od 0.6/0.7 wynik w porządku
+
+najlepiej Accuracy i F1
+
+Zad 1: do 5/6 warstw
+
+
+Różne architektury sieci:
+- iteracja po: funkcji aktywacji tanh, relu,
+- iteracja po: ilości warstw, neuronów
